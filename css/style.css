@@ -8,6 +8,7 @@ header {
 	color: #0000A0;
 }
 
+<<<<<<< HEAD
 #rebar {
 	color: salmon;
 	margin-top: 1000px;
@@ -21,4 +22,7 @@ header {
 	border: 2px solid #000;
 	padding: 20px;
 	float: right;
+	border: 10px solid #000;
+	padding: 20px;
+	float: left;
 }
